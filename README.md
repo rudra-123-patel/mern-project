@@ -1,5 +1,3 @@
-:
-
 🚀 Crowdfunding Platform
 
 This project is a full-stack crowdfunding platform built with the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to create and back crowdfunding campaigns for various causes and projects. The platform incorporates user authentication with JWT, secure password hashing with bcryptjs, and seamless payment processing through Stripe integration.
